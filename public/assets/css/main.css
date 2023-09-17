@@ -1,0 +1,16 @@
+
+
+html {
+  /* --tg-theme-text-color: yellow; */
+  /* --tg-theme-bg-color: green; */
+}
+body {
+  /* color: var(--tg-theme-text-color); */
+  /* background: var(--tg-theme-bg-color);   */
+}
+button {
+  margin: 0;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
